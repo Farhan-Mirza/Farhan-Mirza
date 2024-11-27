@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **full-stack web development with Java, HTML, and exploring frameworks like Spring Boot and front-end technologies such as React.**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Cloud Native Projects.**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps.**
 
 - 💬 Ask me about **full-stack development, Java, React, Vue, GSAP, and Generative AI.**
 
@@ -21,13 +21,21 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<!-- CodePen -->
 <a href="https://codepen.io/farhan-mirza-the-animator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farhan-mirza-the-animator" height="30" width="40" /></a>
+<!-- Linkedin -->
 <a href="https://linkedin.com/in/mirza-farhan-shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza-farhan-shabbir" height="30" width="40" /></a>
+<!-- CodeSandBox -->
 <a href="https://codesandbox.com/farhan-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="farhan-mirza" height="30" width="40" /></a>
+<!-- Kaggle -->
 <a href="https://kaggle.com/farhanmirza1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farhanmirza1" height="30" width="40" /></a>
+<!-- Dribbble -->
 <a href="https://dribbble.com/farhan-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="farhan-mirza" height="30" width="40" /></a>
+<!-- Code Chef -->
 <a href="https://www.codechef.com/users/many_bass_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="many_bass_92" height="30" width="40" /></a>
+<!-- LeetCode -->
 <a href="https://www.leetcode.com/farhan-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan-mirza" height="30" width="40" /></a>
+<!-- Top Coder -->
 <a href="https://www.topcoder.com/members/farhan-mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="farhan-mirza" height="30" width="40" /></a>
 </p>
 
@@ -139,9 +147,9 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/farhan.mirza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farhan.mirza" /></a><a href="https://ko-fi.com/mirzafarhan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mirzafarhan" /></a></p><br><br>
+<h2 align="left">Profile Statistics:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-mirza&show_icons=true&locale=en&layout=compact" alt="farhan-mirza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en&theme=dark" alt="farhan-mirza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en" alt="farhan-mirza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-mirza&show_icons=true&locale=en&layout=compact&hide=css,html&theme=dark" alt="farhan-mirza" /></p>
+
