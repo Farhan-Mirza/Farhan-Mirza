@@ -146,10 +146,8 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-
 <h2 align="left">Profile Statistics:</h2>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en&theme=dark" alt="farhan-mirza" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en&theme=dark" alt="farhan-mirza" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-mirza&show_icons=true&locale=en&layout=compact&hide=css,html&theme=dark" alt="farhan-mirza" /></p>
 
