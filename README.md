@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mirza Farhan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-mirza&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-mirza" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan-mirza" alt="farhan-mirza" /></a> </p>
+
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Farhan-Mirza/Inventory-Management-System)
 
 - 🌱 I’m currently learning **full-stack web development with Java, HTML, and exploring frameworks like Spring Boot and front-end technologies such as React.**
 
-- 🤝 I’m looking for help with [Inventory Management System](https://github.com/Farhan-Mirza/Inventory-Management-System)
+- 👯 I’m looking to collaborate on **Cloud Native Projects**
+
+- 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **full-stack development, Java, React, Vue, GSAP, and Generative AI.**
 
