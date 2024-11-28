@@ -179,7 +179,7 @@
 
 ---
 
-<h3>Design & Platforms:</h3>
+<h3>Operating Systems:</h3>
 <p align="left">
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -194,5 +194,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en" alt="farhan-mirza" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en&theme=radical" alt="farhan-mirza" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-mirza&show_icons=true&locale=en&layout=compact&hide=css,html&theme=radical" alt="farhan-mirza" />
 </p>
