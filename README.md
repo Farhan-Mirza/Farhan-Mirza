@@ -1,209 +1,114 @@
-<h1 align="center">Hi 👋, I'm Mirza Farhan</h1>
-<h2 align="center">Passionate full-stack developer from Pakistan.</h2>
+<!-- Header banner -->
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=farhan-mirza&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-mirza" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,100:0d1117&text=Mirza%20Farhan%20Shabbir&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%7C%20Emerging%20Technologies%20Student&descColor=cfe3ff&descSize=18&descAlignY=58" alt="Mirza Farhan Shabbir banner" width="100%" />
 
-<!--
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farhan-mirza&column=4&row=2&margin=15" alt="farhan-mirza" />
-  </a>
-</p>
--->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=farhan-mirza" alt="farhan-mirza" />
-  </a>
-</p>
+<a href="https://github.com/Farhan-Mirza">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;WordPress+%7C+PHP+%7C+JavaScript+%7C+Python;Studying+Software+Technology+in+China+%F0%9F%87%A8%F0%9F%87%B3;Building+practical+solutions" alt="Typing animation" />
+</a>
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/Farhan-Mirza/Inventory-Management-System).
+<br/>
 
-- 🌱 I’m currently learning **full-stack web development with Java, HTML, and exploring frameworks like Spring Boot and front-end technologies such as React.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirza%20Farhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-farhan-shabbir)
+[![GitHub](https://img.shields.io/badge/GitHub-Farhan--Mirza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farhan-Mirza)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%7C%20WordPress-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Farhan-Mirza&label=Profile%20views&color=0A66C2&style=for-the-badge)
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects.**
-
-- 🤝 I’m looking for help with **DevOps.**
-
-- 💬 Ask me about **full-stack development, Java, React, Vue, GSAP, and Generative AI.**
-
-- 📫 How to reach me **mirzafarhan4394@gmail.com**.
-
-- ⚡ Fun fact: **I’m always experimenting with new technologies and love turning complex problems into creative solutions!**
+</div>
 
 ---
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  
-  <a href="https://codepen.io/farhan-mirza-the-animator" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farhan-mirza-the-animator" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mirza-farhan-shabbir" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza-farhan-shabbir" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/farhan-mirza" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="farhan-mirza" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/farhanmirza1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farhanmirza1" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/farhan-mirza" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="farhan-mirza" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/many_bass_92" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="many_bass_92" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/farhan-mirza" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="farhan-mirza" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/farhan-mirza" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="farhan-mirza" height="30" width="40" />
-  </a>
-  
-</p>
+## 👨‍💻 About Me
+
+I'm a **Full Stack Web Developer at Sangra Technologies**, where I build responsive, user-focused websites and digital solutions. I'm also studying **Software Technology at Suzhou Polytechnic University** in China through the **Sino-Pak Dual Diploma Program in Emerging Technologies**.
+
+I enjoy turning ideas into useful products, experimenting with new technologies, and sharing what I learn along the way.
+
+|  |  |
+|---|---|
+| 🔭 **Working on** | [Inventory Management System](https://github.com/Farhan-Mirza/Inventory-Management-System) |
+| 🌱 **Learning** | Java OOP and Generative AI |
+| 💼 **Open to** | Full Stack Engineer · WordPress Developer · Web Services Specialist roles |
+| 💬 **Ask me about** | Web development, WordPress, React, Node.js, Python and Java |
+| 🌏 **Based in** | Rawalpindi, Pakistan · currently studying in China 🇨🇳 |
+| 📚 **Also preparing for** | HSK 4 (Chinese language exam) |
 
 ---
 
-<h2 align="left">Languages and Tools:</h2>
-<h3>Programming & Development:</h3>
-<p align="left">
-  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  
-</p>
+## 🛠️ Tech Stack
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Back-end & CMS**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge)
+
+**Also experienced with:** REST APIs · JSP · Responsive Web Design · WAMP · Object-Oriented Programming
 
 ---
 
-<h3>Frameworks & Libraries:</h3>
-<p align="left">
-  
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  </a>
-  
-</p>
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Inventory Management System**](https://github.com/Farhan-Mirza/Inventory-Management-System) | Inventory management application | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**html5_projects**](https://github.com/Farhan-Mirza/html5_projects) | Collection of HTML5 and CSS practice projects | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
-<h3>Databases & Data Management:</h3>
-<p align="left">
+## 💼 Experience & Education
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
+- **Full Stack Web Developer**, Sangra Technologies (Remote) · Jan 2023 – Present
+  Custom websites with WordPress, HTML5, CSS3 and JavaScript; backend work with PHP, MySQL and REST APIs; Git for version control and collaboration.
+- **Software Engineer**, Headstarter AI · Jul 2024 – Jul 2025
+- **Associate's Degree, Software Technology**, Suzhou Polytechnic University · 2024 – 2027
+- **Associate's Degree, Computer Software Engineering**, National University of Technology (NUTECH) · 2024 – Present
 
-</p>
+**Certifications:** Google Soft Skills Program · WordPress Development (DigiSkills.pk)
 
 ---
 
-<h3>Design & Platforms:</h3>
-<p align="left">
+## 📊 GitHub Stats
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan-Mirza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-Mirza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2" alt="Top languages" />
+
+</div>
 
 ---
 
-<h3>Operating Systems:</h3>
-<p align="left">
+## 🤝 Let's Connect
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+I'm always happy to connect with fellow students, developers and technology professionals. Let's learn, build and grow together.
 
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-farhan-shabbir)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhan-mirza&show_icons=true&locale=en&theme=radical" alt="farhan-mirza" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:0A66C2&section=footer" width="100%" alt="footer" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-mirza&show_icons=true&locale=en&layout=compact&hide=css,html&theme=radical" alt="farhan-mirza" />
-</p>
+</div>
